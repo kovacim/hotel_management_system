@@ -5,7 +5,7 @@ use App\Controller\AppController;
 use Cake\ORM\TableRegistry;
 use Cake\I18n\Time;
 use function PHPSTORM_META\type;
-
+use App\Model\Prova;
 /**
  * Bookings Controller
  *
